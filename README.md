@@ -18,6 +18,7 @@ To get started with this project, clone the repository to your local machine:
 Navigate to the project directory and install the necessary dependencies:
 
 **cd tesla-clone-tailwindcss**
+
 **npm install**
 
 Once the dependencies are installed, you can start the development server:
