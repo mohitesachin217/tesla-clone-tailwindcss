@@ -13,7 +13,7 @@ Getting Started
 
 To get started with this project, clone the repository to your local machine:
 
-**git clone https://github.com/yourusername/tesla-clone-tailwindcss.git**
+**git clone https://github.com/mohitesachin217/tesla-clone-tailwindcss.git**
 
 Navigate to the project directory and install the necessary dependencies:
 
