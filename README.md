@@ -3,8 +3,11 @@ Welcome to the “tesla-clone-tailwindcss” repository! This project is a front
 
 Features
 **Responsive Design:** The clone is fully responsive, ensuring that it looks great on devices of all sizes.
+
 **Tailwind CSS:** Utilizes Tailwind CSS for styling, showcasing its utility classes and design principles.
+
 **Modern Layout:** Implements a modern layout similar to the official Tesla website.
+
 Getting Started
 To get started with this project, clone the repository to your local machine:
 
